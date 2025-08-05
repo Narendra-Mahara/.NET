@@ -6,7 +6,7 @@
 
 abstract class Animal
 {
-    public abstract void animalSound();
+    public abstract void animalSound(); // it does not have a body
     public void sleep()
     {
         Console.WriteLine("Zzz");
